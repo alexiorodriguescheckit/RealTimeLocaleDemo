@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleTestDemo</string>
+    <string name="example_text_1">Exemplo em Portugues 1</string>
+    <string name="example_text_2">Exemplo em Portugues 2</string>
+    <string name="example_text_3">Exemplo em Portugues 3</string>
+</resources>
